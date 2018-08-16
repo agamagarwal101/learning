@@ -7,5 +7,4 @@ function sayHello(msg) {
 sayHello("my first node code");
 
 const logger = require('./logger');
-logger = 1;
 logger.log("using module export and require");
